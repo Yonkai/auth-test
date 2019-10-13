@@ -1,1 +1,1 @@
-This is a repository for practicing Authentication, authorization, access controls, validation, verification, key systems, sessions, hashes, bcrypt, CI, HMAC, Hashing, KDF,MACs etc. implementations.
+This is a repository for practicing Authentication, authorization, permissions, access controls, validation, verification, key systems, sessions, bcrypt, CI, HMAC, Hashing, KDF, MACs, and other cryptography etc. implementations.
